@@ -1,4 +1,4 @@
-# ny-taxi-prediction-pyspark-emr
+# NYC-Taxi-Demand-Prediction
 <h5>A repository to contain the notebook for my big data project involving EDA and Machine Learning on the NY Taxi Fare dataset</h5>
 
 ***
@@ -25,8 +25,3 @@ at completing one data science project each month starting with this for October
 * AWS EMR
 * AWS EC2
 * Spark MLlib
-
-***
-
-### Article
-An article covering the procedure and results of this project can be found on [Medium](https://pub.towardsai.net/introduction-to-pyspark-via-aws-emr-and-hands-on-eda-de1866d641f5?gi=baeb31501644)
